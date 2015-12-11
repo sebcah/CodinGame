@@ -4,7 +4,7 @@
 #include <math.h>
 
 /**
- * Auto-generated code below aims at helping you parse
+ * Auto-generated code below aims at helping you parse.
  * the standard input according to the problem statement.
  * ---
  * Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
